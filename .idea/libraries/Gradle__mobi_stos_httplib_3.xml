@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: mobi.stos:httplib-3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/httplib-3.aar/1b93b9648a58def65c2e5e65d51443e6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/httplib-3.aar/1b93b9648a58def65c2e5e65d51443e6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mobi.stos/httplib/3/5b755c7756250dc8660b897dbd393c41fbcbaaaf/httplib-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_c_filme"
+            android:icon="@drawable/ic_filme"
+            android:title="@string/cat_logo_de_filmes" />
+        <item
+            android:id="@+id/nav_c_favorito"
+            android:icon="@drawable/ic_favorito"
+            android:title="@string/filmes_favoritos" />
+        <item
+            android:id="@+id/nav_c_catetoria"
+            android:icon="@drawable/ic_categoria"
+            android:title="@string/categoria" />
+        <item
+            android:id="@+id/nav_c_configuracao"
+            android:icon="@drawable/ic_configuracao"
+            android:title="@string/configuracao" />
+    </group>
+
+    <item android:title="@string/comunicar">
+        <menu>
+            <item
+                android:id="@+id/nav_c_share"
+                android:icon="@drawable/ic_compartilhar"
+                android:title="@string/compartilhar" />
+        </menu>
+    </item>
+
+</menu>

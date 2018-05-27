@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">LJH  Filmes</string>
+    <string name="nav_header_subtitle">gilbertofeitosajr@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cat_logo_de_filmes">Catálogo de Filmes</string>
+    <string name="filmes_favoritos">Filmes Favoritos</string>
+    <string name="categoria">Categorias</string>
+    <string name="configuracao">Configuração</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="comunicar">Comunicar</string>
+    <string name="em_desenvolvimento">Em desenvolvimeto</string>
+    <string name="carregando">carregando...</string>
+    <string name="pesquisar">pesquisar</string>
+    <string name="erro_internet">Sem conexão com a internet</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+</resources>

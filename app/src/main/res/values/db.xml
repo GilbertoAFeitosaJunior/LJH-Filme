@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="db_name">db_filme</string>
+    <integer name="db_version">1</integer>
+    <string-array name="db_scan">
+        <item>br.com.filme.model.Filme</item>
+    </string-array>
+    <string name="db_log">true</string>
+</resources>

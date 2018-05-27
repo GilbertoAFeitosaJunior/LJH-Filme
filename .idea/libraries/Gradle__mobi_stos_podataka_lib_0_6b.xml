@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: mobi.stos:podataka_lib-0.6b">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/podataka_lib-0.6b.aar/35b56b3312a651d77063944fa5b3fd27/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/podataka_lib-0.6b.aar/35b56b3312a651d77063944fa5b3fd27/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mobi.stos/podataka_lib/0.6b/a3bd51e59f2af8c2b3a2c81f9844eb76d83482fa/podataka_lib-0.6b-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
